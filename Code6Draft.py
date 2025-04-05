@@ -68,6 +68,3 @@ sns.heatmap(corr_matrix, annot=True, vmax=1, vmin=-1, cmap ='vlag') # Referenced
 
 plt.show()
 
-#-----------------------------------------------------------------------------------------------------------------
-#GEMINI (2.0 Flash). Date of query (4/04/25). Generated using OpenAI GEMINI. https://gemini.google.com/app
-#Submission 2
